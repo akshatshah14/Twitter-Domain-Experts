@@ -1,2 +1,2 @@
 # Twitter-Domain-Experts
-Ranking domain experts using Twitter Data
+Ranking domain experts on Twitter Data
